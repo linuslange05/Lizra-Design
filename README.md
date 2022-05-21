@@ -6,6 +6,6 @@ Dieses Repository enthält sowohl den Frontend-Code zum Interface, als auch den 
 
 ---
 
-##Contributors
+## Contributors
 - Linus Lange  [zum GitHub-Profil](https://github.com/linuslange05?tab=repositories)
 - Lukas Lange [zum GitHub-Profil](https://github.com/LukasDSLange?tab=repositories)
